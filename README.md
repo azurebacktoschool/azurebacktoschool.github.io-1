@@ -46,7 +46,7 @@ See Azure Advent Calendar [Azure Advent Calendar](https://azureadventcalendar.co
 |1-Oct-2020	|Azure Back-to-School Wrap-up video, Blog post	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
 |  |  |  |
 
-![Captain Hyperscaler logo](images/logo.png =600x600 "Captain Hyperscaler")
+![Captain Hyperscaler logo](images/logo.png =600x600)
 
 <p><a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
 
