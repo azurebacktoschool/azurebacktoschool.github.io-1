@@ -48,3 +48,4 @@ See Azure Advent Calendar [Azure Advent Calendar](https://azureadventcalendar.co
 
 
 <p><a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
+![Captain Hyperscaler logo](images/logo.png "Captain Hyperscaler")
