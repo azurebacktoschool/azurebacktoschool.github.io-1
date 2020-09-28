@@ -15,17 +15,17 @@ See Azure Advent Calendar [Azure Advent Calendar](https://azureadventcalendar.co
 |  |  |  |
 |----------|----------|:-------------:|
 |Date	|Topic	|Contributor|
-|1-Sep-2020	|Welcome to Azure Back-to-School plus “Breaking Down the Network Chains” – Network Watcher|	Dwayne Natwick|
-|2-Sep-2020	|How to Build an Azure Kubernetes Cluster using Managed Azure Active Directory integration|	Richard Hooper|
-|3-Sep-2020	|Azure Certification Preparation – Video Azure Certification Preparation – Post	|Gregor Suttie|
-|4-Sep-2020	|Beginning with Azure Functions in Visual Studio|	Jurgen Kevelaers|
-|7-Sep-2020	|Azure Hybrid including Hybrid Identity, Hybrid Device and Hybrid Exchange|	Shabaz Darr|
-|8-Sep-2020	|Introduction to Azure Monitor	|Vaibhav Gujral|
-|9-Sep-2020	|Azure Maps and Xamarin	|Luis Beltran|
-|10-Sep-2020	|Windows Virtual Desktop	|Neil McLoughlin|
-|11-Sep-2020	|Application Networking – Breaking Down the Azure Network Chains	|Dwayne Natwick|
-|12-Sep-2020	|Azure DevOps is not for IT Pro’s (says no one ever again) – Video Blog post	|Peter De Tender|
-|13-Sep-2020	|Serverless Big Data pipelines	|LaBrina Loving|
+|1-Sep-2020	|[Welcome to Azure Back-to-School](https://captainhyperscaler.com/?p=871) plus [“Breaking Down the Network Chains” – Network Watcher](https://youtu.be/PT8L68ZE13I)|	[Dwayne Natwick](http://twitter.com/DwayneNcloud)|
+|2-Sep-2020	|[How to Build an Azure Kubernetes Cluster using Managed Azure Active Directory integration](https://pixelrobots.co.uk/2020/09/how-to-build-an-azure-kubernetes-cluster-using-managed-azure-active-directory-integration/)|	[Richard Hooper](http://twitter.com/pixel_robots)|
+|3-Sep-2020	|[Azure Certification Preparation – Video](https://youtu.be/hhw8lFb5yzA), [Azure Certification Preparation – Post](https://gregorsuttie.com/2020/09/03/azure-certification-prep/)	|[Gregor Suttie](http://twitter.com/gregor_suttie)|
+|4-Sep-2020	|[Beginning with Azure Functions in Visual Studio](https://jurgenonazure.com/2020/08/azure-back-to-school-2020-beginning-with-azure-functions-in-visual-studio/)|	[Jurgen Kevelaers](http://twitter.com/JurgenOnAzure)|
+|7-Sep-2020	|[Azure Hybrid including Hybrid Identity, Hybrid Device and Hybrid Exchange](https://iamitgeek.com/?p=278)|	[Shabaz Darr](http://twitter.com/ShabazDarr)|
+|8-Sep-2020	|[Introduction to Azure Monitor](https://vaibhavgujral.com/2020/09/07/an-introduction-to-azure-monitor/)	|[Vaibhav Gujral](http://twitter.com/vabgujral)|
+|9-Sep-2020	|[Azure Maps and Xamarin](https://dev.to/icebeam7/azure-maps-and-xamarin-kep)	|[Luis Beltran](http://twitter.com/darkicebeam)|
+|10-Sep-2020	|[Windows Virtual Desktop](https://youtu.be/BmyiWwvR2oY)	|[Neil McLoughlin](http://twitter.com/virtualmac)|
+|11-Sep-2020	|[Application Networking – Breaking Down the Azure Network Chains](https://youtu.be/omyqoL3oJh0)	|[Dwayne Natwick](http://twitter.com/dwaynencloud)|
+|12-Sep-2020	|[Azure DevOps is not for IT Pro’s (says no one ever again) – Video](https://youtu.be/K4ClwqEKNys), [Blog post](https://www.007ffflearning.com/post/azure-back-to-school/)	|[Peter De Tender](http://twitter.com/pdtit)|
+|13-Sep-2020	|[Serverless Big Data pipelines](https://dev.to/chixcancode/azure-back-to-school-2020-serverless-big-data-pipelines-data-storage-and-exploration-1m8a)	|[LaBrina Loving](http://twitter.com/chixcancode)|
 |14-Sep-2020	|Exploring Azure Resources with Azure Graph Explorer	|Vukasin Terzic|
 |15-Sep-2020	|On-premise serverless app via Kubernetes and KEDA	|Stas Lebedenko|
 |16-Sep-2020	|Azure AZ-900 study guide, NEW! AZ-104 study guide	|Nick Colyer|
