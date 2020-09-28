@@ -26,24 +26,24 @@ See Azure Advent Calendar [Azure Advent Calendar](https://azureadventcalendar.co
 |11-Sep-2020	|[Application Networking – Breaking Down the Azure Network Chains](https://youtu.be/omyqoL3oJh0)	|[Dwayne Natwick](http://twitter.com/dwaynencloud)|
 |12-Sep-2020	|[Azure DevOps is not for IT Pro’s (says no one ever again) – Video](https://youtu.be/K4ClwqEKNys), [Blog post](https://www.007ffflearning.com/post/azure-back-to-school/)	|[Peter De Tender](http://twitter.com/pdtit)|
 |13-Sep-2020	|[Serverless Big Data pipelines](https://dev.to/chixcancode/azure-back-to-school-2020-serverless-big-data-pipelines-data-storage-and-exploration-1m8a)	|[LaBrina Loving](http://twitter.com/chixcancode)|
-|14-Sep-2020	|Exploring Azure Resources with Azure Graph Explorer	|Vukasin Terzic|
-|15-Sep-2020	|On-premise serverless app via Kubernetes and KEDA	|Stas Lebedenko|
-|16-Sep-2020	|Azure AZ-900 study guide, NEW! AZ-104 study guide	|Nick Colyer|
-|17-Sep-2020	|Azure Backup on Azure resources. Video, Blog post	|Wim Matthyssen|
-|18-Sep-2020	|The future of ARM Templates with Project Bicep	|Karel De Winter|
-|19-Sep-2020	|Virtual Network Gateways (includes demo) – Breaking Down the Azure Network Chains	|Dwayne Natwick|
-|20-Sep-2020	|Azure Function keys and API management	|Joel Hebert|
-|21-Sep-2020	|Azure Sentinel	|Ed Baker|
-|22-Sep-2020	|Deploying Terraform from develop to production consecutively using Azure DevOps	|Thomas Thornton|
-|23-Sep-2020	|Azure Lighthouse	|Alan Kinane|
-|24-Sep-2020	|Migration Journey from on-premises to Azure	|Sarah Lean|
-|25-Sep-2020	|ARM templates overview	|Marco Obinu|
-|26-Sep-2020	|DevSecOps – Integrating Security Practices with Azure DevOps	|Mark Patton|
-|27-Sep-2020	|Scalable Web Apps	|Tiago Costa|
-|28-Sep-2020	|Enterprise shared file services with Azure NetApp Files	|Kirk Ryan|
-|29-Sep-2020	|Building and Hosting client-side apps by leveraging Blazor, Static Website in Azure Storage and Azure CDN	|Hugo Barona|
-|30-Sep-2020	|Azure Pipelines to deploy ARM templates	|Dave Rendon|
-|1-Oct-2020	|Azure Back-to-School Wrap-up	|Dwayne Natwick|
+|14-Sep-2020	|[Exploring Azure Resources with Azure Graph Explorer](https://azureis.fun/posts/Exploring-Azure-Resources-with-Azure-Graph-Explorer/)	|[Vukasin Terzic](http://twitter.com/MrTerzic)|
+|15-Sep-2020	|[On-premise serverless app via Kubernetes and KEDA](https://medium.com/microsoftazure/lifting-function-to-kubernetes-with-keda-e24de86fca2e)	|[Stas Lebedenko](http://twitter.com/angry_stas)|
+|16-Sep-2020	|[Azure AZ-900 study guide](https://www.skylinesacademy.com/az900-azure-fundamentals-ultimate-study-guide), [NEW! AZ-104 study guide](https://www.skylinesacademy.com/az-104-ultimate-study-guide)	|[Nick Colyer](http://twitter.com/vNickC)|
+|17-Sep-2020	|[Azure Backup on Azure resources. Video](https://youtu.be/nfk01A3SBSY), [Blog post](https://wmatthyssen.com/2020/09/17/azure-back-to-school-azure-backup-for-azure-iaas-resources/)	|[Wim Matthyssen](http://twitter.com/wmatthyssen)|
+|18-Sep-2020	|[The future of ARM Templates with Project Bicep](https://kareldewinter.com/azure-bicep-project/)	|[Karel De Winter](http://twitter.com/kareldewinter)|
+|19-Sep-2020	|[Virtual Network Gateways (includes demo) – Breaking Down the Azure Network Chains](https://youtu.be/kWUltTKQeO0)	|[Dwayne Natwick](http://www.twitter.com/dwaynencloud)|
+|20-Sep-2020	|[Azure Function keys and API management](https://youtu.be/tIlHEr1Fl3w)	|[Joel Hebert](http://twitter.com/JoelHerbert)|
+|21-Sep-2020	|[Azure Sentinel](https://youtu.be/-KHMUwVbFjA)	|[Ed Baker](http://twitter.com/edbaker1965)|
+|22-Sep-2020	|[Deploying Terraform from develop to production consecutively using Azure DevOps](https://thomasthornton.cloud/2020/09/22/deploying-terraform-from-develop-to-production-consecutively-using-azure-devops/)	|[Thomas Thornton](http://twitter.com/tamstar1234)|
+|23-Sep-2020	|[Azure Lighthouse](https://azurealan.ie/2020/09/23/azure-back-to-school-azure-lighthouse/)	|[Alan Kinane](http://twitter.com/azure_alan)|
+|24-Sep-2020	|[Migration Journey from on-premises to Azure](https://www.techielass.com/back-to-school-migration)	|[Sarah Lean](http://twitter.com/TechieLass)|
+|25-Sep-2020	|[ARM templates overview](https://youtu.be/8iw3djtthZs)	|[Marco Obinu](http://twitter.com/OmegaMadLab)|
+|26-Sep-2020	|[DevSecOps – Integrating Security Practices with Azure DevOps](https://youtu.be/aSYEHUGHRxE)	|[Mark Patton](http://twitter.com/Mark_D_Patton)|
+|27-Sep-2020	|[Scalable Web Apps](https://youtu.be/bxBtNBVyszs)	|[Tiago Costa](http://twitter.com/tiagocostapt)|
+|28-Sep-2020	|[Enterprise shared file services with Azure NetApp Files](https://youtu.be/afsiPRNbgMc)	|[Kirk Ryan](http://twitter.com/kirk__ryan)|
+|29-Sep-2020	|[Building and Hosting client-side apps by leveraging Blazor, Static Website in Azure Storage and Azure CDN - Video](https://youtu.be/SHTo5xsGIqc), [Blog post](https://www.hugobarona.com/using-blazor-and-azure-static-web-apps-to-build-seamlessly-client-side-apps/)	|[Hugo Barona](http://twitter.com/HmsBarona)|
+|30-Sep-2020	|Azure Pipelines to deploy ARM templates	|[Dave Rendon](http://twitter.com/DaveRndn)|
+|1-Oct-2020	|Azure Back-to-School Wrap-up video, Blog post	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
 |  |  |  |
 
 
