@@ -42,8 +42,8 @@ See Azure Advent Calendar [Azure Advent Calendar](https://azureadventcalendar.co
 |27-Sep-2020	|[Scalable Web Apps](https://youtu.be/bxBtNBVyszs)	|[Tiago Costa](http://twitter.com/tiagocostapt)|
 |28-Sep-2020	|[Enterprise shared file services with Azure NetApp Files](https://youtu.be/afsiPRNbgMc)	|[Kirk Ryan](http://twitter.com/kirk__ryan)|
 |29-Sep-2020	|[Building and Hosting client-side apps by leveraging Blazor, Static Website in Azure Storage and Azure CDN - Video](https://youtu.be/SHTo5xsGIqc), [Blog post](https://www.hugobarona.com/using-blazor-and-azure-static-web-apps-to-build-seamlessly-client-side-apps/)	|[Hugo Barona](http://twitter.com/HmsBarona)|
-|30-Sep-2020	|Azure Pipelines to deploy ARM templates	|[Dave Rendon](http://twitter.com/DaveRndn)|
-|1-Oct-2020	|Azure Back-to-School Wrap-up video, Blog post	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
+|30-Sep-2020	|[Azure Pipelines to deploy ARM templates](https://youtu.be/mHWUs2cQUmc)	|[Dave Rendon](http://twitter.com/DaveRndn)|
+|1-Oct-2020	|[Azure Back-to-School Wrap-up video](https://youtu.be/Igq7YIot9j8) and [Blog post](https://captainhyperscaler.com/2020/10/01/azurebacktoschool-2020-recap/)	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
 |  |  |  |
 
 <p><a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
