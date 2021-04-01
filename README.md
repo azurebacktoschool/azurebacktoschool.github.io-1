@@ -1,14 +1,15 @@
 # Welcome to Azure Back to School
 
-![Azure Back to School logo](images/azurebacktoschool.png "Azure Back to School")
+## **AZURE BACK TO SCHOOL 2021 ANNOUNCEMENT**
+Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  The call for speakers is open at this link: [Azure Back to School Call for Speakers](https://sessionize.com/azure-back-to-school-2021).  We request that the submission is for a Video presentation with one experienced presenter and one new or less experienced presenter that you would like to assist in getting involved in the #CloudFamily community.
 
+Feel free to reach out to me at @DwayneNcloud directly with any questions.
 
-## **Event Mission**
-In the spirit of the #AzureFamily from #AzureAdventCalendar and #AzureSpringClean, I will be continuing the momentum with an end of summer event in September. 
+Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.tech) and the hashtag #AzureBacktoSchool. We would like videos to be submitted a week prior to upload and schedule them on the [Captain Hyperscaler YouTube channel](https://www.youtube.com/c/captainhyperscaler) in the Azure Back to School 2021 playlist.  If you would like to have an accompanying blog post, you can do that as well, but the primary content should be a video recording.  Length is not important, but try to keep it under an hour.
 
-Content is a mix of blog articles and/or videos that are provided by the contributors in the list below. Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.tech) and the hashtag #AzureBacktoSchool. Videos can be found on the Captain Hyperscaler YouTube channel in the [Azure Back to School playlist](https://www.youtube.com/playlist?list=PLEyhcNWyLQRkcdDu_MOy9Wv7mjUL18a26)
+See Azure Advent Calendar [Azure Festive Calendar](https://festivetechcalendar.com/)  and [Azure Spring Clean](https://www.azurespringclean.com/) sites for some great content to help you with ideas and education. 
 
-See Azure Advent Calendar [Azure Advent Calendar](https://azureadventcalendar.com/)  and [Azure Spring Clean](https://www.azurespringclean.com/) sites for some great content to help you with ideas and education. 
+![Azure Back to School logo](images/azurebacktoschool2021.jpeg "Azure Back to School")
 
 ## **2020 Event Submissions**
 
