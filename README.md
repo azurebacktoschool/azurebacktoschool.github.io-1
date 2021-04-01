@@ -9,7 +9,7 @@ Hyperlinks to each topic’s content will be updated each day. Contributors are 
 
 See Azure Advent Calendar [Azure Festive Calendar](https://festivetechcalendar.com/)  and [Azure Spring Clean](https://www.azurespringclean.com/) sites for some great content to help you with ideas and education. 
 
-![Azure Back to School logo](images/azurebacktoschool.png "Azure Back to School")
+![Azure Back to School logo](images/azurebacktoschool2021.jpeg "Azure Back to School")
 
 ## **2020 Event Submissions**
 
