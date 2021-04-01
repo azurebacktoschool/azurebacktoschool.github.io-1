@@ -47,9 +47,6 @@ See Azure Advent Calendar [Azure Festive Calendar](https://festivetechcalendar.c
 |1-Oct-2020	|[Azure Back-to-School Wrap-up video](https://youtu.be/Igq7YIot9j8) and [Blog post](https://captainhyperscaler.com/2020/10/01/azurebacktoschool-2020-recap/)	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
 |  |  |  |
 
-<p><a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
-
-![Captain Hyperscaler logo](images/logo.png)
 
 
 
