@@ -11,7 +11,7 @@ See Azure Advent Calendar [Azure Festive Calendar](https://festivetechcalendar.c
 
 ![Azure Back to School logo](images/azurebacktoschool2021.jpeg "Azure Back to School")
 
-## **2020 Event Submissions**
+## **2020 Content**
 
 |  |  |  |
 |----------|----------|:-------------:|
