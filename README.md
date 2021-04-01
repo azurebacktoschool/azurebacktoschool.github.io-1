@@ -4,11 +4,13 @@
 
 
 ## **Event Mission**
-In the spirit of the #AzureFamily from #AzureAdventCalendar and #AzureSpringClean, I will be continuing the momentum with an end of summer event in September. 
+Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  The call for speakers is open [Azure Back to School Call for Speakers](https://sessionize.com/azure-back-to-school-2021).  We request that the submission is for a Video presentation with one experienced presenter and one new or less experienced presenter that you would like to assist in getting involved in the #CloudFamily community.
 
-Content is a mix of blog articles and/or videos that are provided by the contributors in the list below. Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.tech) and the hashtag #AzureBacktoSchool. Videos can be found on the Captain Hyperscaler YouTube channel in the [Azure Back to School playlist](https://www.youtube.com/playlist?list=PLEyhcNWyLQRkcdDu_MOy9Wv7mjUL18a26)
+Feel free to reach out to me at @DwayneNcloud directly with any questions.
 
-See Azure Advent Calendar [Azure Advent Calendar](https://azureadventcalendar.com/)  and [Azure Spring Clean](https://www.azurespringclean.com/) sites for some great content to help you with ideas and education. 
+Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.tech) and the hashtag #AzureBacktoSchool. We would like videos to be submitted a week prior to upload and schedule them on the [Captain Hyperscaler YouTube channel](https://www.youtube.com/c/captainhyperscaler) in the Azure Back to School 2021 playlist.  If you would like to have an accompanying blog post, you can do that as well, but the primary content should be a video recording.  Length is not important, but try to keep it under an hour.
+
+See Azure Advent Calendar [Azure Festive Calendar](https://festivetechcalendar.com/)  and [Azure Spring Clean](https://www.azurespringclean.com/) sites for some great content to help you with ideas and education. 
 
 ## **2020 Event Submissions**
 
