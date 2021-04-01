@@ -1,7 +1,7 @@
 # Welcome to Azure Back to School
 
 ## **AZURE BACK TO SCHOOL 2021 ANNOUNCEMENT**
-Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  The call for speakers is open [Azure Back to School Call for Speakers](https://sessionize.com/azure-back-to-school-2021).  We request that the submission is for a Video presentation with one experienced presenter and one new or less experienced presenter that you would like to assist in getting involved in the #CloudFamily community.
+Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  The call for speakers is open at this link: [Azure Back to School Call for Speakers](https://sessionize.com/azure-back-to-school-2021).  We request that the submission is for a Video presentation with one experienced presenter and one new or less experienced presenter that you would like to assist in getting involved in the #CloudFamily community.
 
 Feel free to reach out to me at @DwayneNcloud directly with any questions.
 
