@@ -14,41 +14,43 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |----------|----------|:-------------:|
 |Date	|Topic	|Contributor|
 |1-Sep-2021	|[Welcome to Azure Back-to-School 2021](https://youtu.be/)|	[Dwayne Natwick](http://twitter.com/DwayneNcloud)|
-|1-Sep-2021	|[Azure VMware Solution Overview](https://youtu.be/)|	[Shannon Kuehn](http://twitter.com/)|
+|1-Sep-2021	|[Azure VMware Solution Overview](https://youtu.be/)|	[Shannon Kuehn](http://twitter.com/shankuehn)|
 |2-Sep-2021	|[Microsoft Teams devices integration with Endpoint Manager](https://youtu.be)|	[Shabaz Darr](http://twitter.com/ShabazDarr)|
-|2-Sep-2021	|[Azure API Management](https://youtu.be)|	[Jabir N P](http://twitter.com/)|
-|3-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/)|
-|3-Sep-2021	|[The well-Architected solution in Azure and pillars of Azure Enterprise Architecture](https://youtu.be/)	|[Usama Wahab Khan](http://twitter.com/)|
-|4-Sep-2021	|[Azure Private Link & Azure Private Endpoint, what's so Private about it?](https://youtu.be/)|	[Micha Wets](http://twitter.com/) and [Wim Matthyssen](http://twitter.com/wmatthyssen)|
-|5-Sep-2021	|[Send Custom Updates from Dynamics CRM to  Power Automate Flows for Integration](https://youtu.be/)|	[Abdul Kazi](http://twitter.com/) and [Chris Gill](http://twitter.com/)|
-|5-Sep-2021	|[Azure Cost Management](https://youtu.be/)|	[Venkatasubbarao Polisetty](http://twitter.com/)|
-|6-Sep-2021	|[From Zero to GitOps with AKS](https://youtu.be/)|	[Thomas Thornton](http://twitter.com/tamstar1234) and [Karl Cooke](http://twitter.com/)|
-|6-Sep-2021	|[Automating your Azure infrastructure with Pulumi](https://youtu.be/)|	[Ahmed Tidjani Belmansour](http://twitter.com/)|
-|7-Sep-2021	|[Jurassic Governance - 10 tips to save your resources from extinction](https://youtu.be/)|	[Yannick Dils](http://twitter.com/) and [Thomas Van Laere](http://twitter.com/) |
+|2-Sep-2021	|[Azure API Management](https://youtu.be)|	[Jabir N P](http://twitter.com/Jabirnp)|
+|3-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
+|3-Sep-2021	|[The well-Architected solution in Azure and pillars of Azure Enterprise Architecture](https://youtu.be/)	|[Usama Wahab Khan](http://twitter.com/usamawahabkhan)|
+|4-Sep-2021	|[Azure Private Link & Azure Private Endpoint, what's so Private about it?](https://youtu.be/)|	[Micha Wets](http://twitter.com/MichaWets) and [Wim Matthyssen](http://twitter.com/wmatthyssen)|
+|5-Sep-2021	|[Send Custom Updates from Dynamics CRM to  Power Automate Flows for Integration](https://youtu.be/)|	[Abdul Kazi](http://twitter.com/abdulkazi) and [Chris Gill](http://twitter.com/cgill)|
+|5-Sep-2021	|[Azure Cost Management](https://youtu.be/)|	[Venkata Subbarao Polisetty](http://twitter.com/Venkata48681009)|
+|6-Sep-2021	|[From Zero to GitOps with AKS](https://youtu.be/)|	[Thomas Thornton](http://twitter.com/tamstar1234) and [Karl Cooke](http://twitter.com/Karl_ITNerd)|
+|6-Sep-2021	|[Automating your Azure infrastructure with Pulumi](https://youtu.be/)|	[Ahmed Tidjani Belmansour](http://twitter.com/Tidjani_B)|
+|7-Sep-2021	|[Jurassic Governance - 10 tips to save your resources from extinction](https://youtu.be/)|	[Yannick Dils](http://twitter.com/ydils1) and [Thomas Van Laere](http://twitter.com/thomas_vanlaere) |
 |8-Sep-2021	|[Azure is 100% High-Available... or is it?](https://youtu.be/)	|[Peter De Tender](http://twitter.com/pdtit)|
-|8-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/)|
+|8-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
 |9-Sep-2021	|[Azure Cognitive Service: Bring AI to your applications in 3 steps!](https://youttu.be)	|[Luis Beltran](http://twitter.com/darkicebeam) and [Carla Vanesa Mamani Chavez](http://twitter.com/)|
-|10-Sep-2021	|[Managing your Azure environment security guardrails with Azure Bicep](https://youtu.be/)	|[Elkhan Yusubov](http://twitter.com/)|
+|10-Sep-2021	|[Managing your Azure environment security guardrails with Azure Bicep](https://youtu.be/)	|[Elkhan Yusubov](http://twitter.com/ElYusubov)|
 |11-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
-|12-Sep-2021	|[Analyzing Azure DevOps auditing streams in your SIEM of choice](https://youtu.be/)|[Peter De Tender](http://twitter.com/pdtit) and [James Cook](http://twitter.com/)|
-|13-Sep-2021	|[Terraform versus Bicep as Azure deployment options](https://youtu.be)	|[John Folberth](http://twitter.com/)|
-|14-Sep-2021	|[IaC - Accelerate, stabilize, and reduce costs in the cloud](https://youtu.be/)	|[Bailey Fitchett](http://twitter.com/) and [Chris Ayers](http://twitter.com)|
+|12-Sep-2021	|[Analyzing Azure DevOps auditing streams in your SIEM of choice](https://youtu.be/)|[Peter De Tender](http://twitter.com/pdtit) and [James Cook](http://twitter.com/OfficialCookJ)|
+|13-Sep-2021	|[Terraform versus Bicep as Azure deployment options](https://youtu.be)	|[John Folberth](http://twitter.com/j_folberth)|
+|13-Sep-2021 |[API First Design and Azure API Management](https://youtu.be)|[Joel Hebert](http://twitter.com/JoelHebert)|
+|14-Sep-2021	|[IaC - Accelerate, stabilize, and reduce costs in the cloud](https://youtu.be/)	|[Bailey Fitchett](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
 |15-Sep-2021	|[DAPR in action: Pros and cons, lessons learned](https://youtu.be)	|[Stas Lebedenko](http://twitter.com/angry_stas) and [Illya Solovyov](http://twitter.com/)|
-|16-Sep-2021	|[FinOps on Microsoft Azure](https://youtu.be)	|[Martyn Coupland](http://twitter.com/)|
-|17-Sep-2021	|[Bicep builders: Azure Sentinel and Policy as Code](https://youtu.be/)	|[Jesse Loudon](http://twitter.com/) and [Casey Mullineaux](http://twitter.com/)|
-|18-Sep-2021	|[Managing AVD the modern way](https://youtu.be/)	|[Stefan Dingemanse](http://twitter.com/) and [Sander Rozemuller](http://twitter.com/)|
-|19-Sep-2021	|[Monitor Office 365 Environment with Azure Sentinel](https://youtu.be/)	|[Nanddeep Nachan](http://www.twitter.com/) and [Smita Nachan](http://www.twitter.com/) |
-|20-Sep-2021	|[Evolution of ARM Templates, let's discuss and compare to other usual suspects](https://youtu.be/)	|[Maik van der Gaag](http://twitter.com/)|
-|21-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/)	|[Derek Smith](http://twitter.com/)|
-|22-Sep-2021	|[Managing Identity and Access in Azure](https://youtu.be)	|[Darren Robinson](http://twitter.com/)|
-|23-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be)	|[Maxim Salnikov](http://twitter.com/)|
+|16-Sep-2021	|[FinOps on Microsoft Azure](https://youtu.be)	|[Martyn Coupland](http://twitter.com/mrcoups)|
+|17-Sep-2021	|[Bicep builders: Azure Sentinel and Policy as Code](https://youtu.be/)	|[Jesse Loudon](http://twitter.com/coder_au) and [Casey Mullineaux](http://twitter.com/Nurfballs)|
+|18-Sep-2021	|[Managing AVD the modern way](https://youtu.be/)	|[Stefan Dingemanse](http://twitter.com/SDingemanse) and [Sander Rozemuller](http://twitter.com/SandeRozemuller)|
+|19-Sep-2021	|[Monitor Office 365 Environment with Azure Sentinel](https://youtu.be/)	|[Nanddeep Nachan](http://www.twitter.com/NanddeepNachan) and [Smita Nachan](http://www.twitter.com/SmitaNachan) |
+|20-Sep-2021	|[Evolution of ARM Templates, let's discuss and compare to other usual suspects](https://youtu.be/)	|[Maik van der Gaag](http://twitter.com/maikvandergaag)|
+|21-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
+|22-Sep-2021	|[Managing Identity and Access in Azure](https://youtu.be)	|[Darren Robinson](http://twitter.com/stalbansdaz)|
+|23-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be)	|[Maxim Salnikov](http://twitter.com/webmaxru)|
 |24-Sep-2021	|[Build everything on Serverless!](https://youtu.be)	|[Divakar Kumar](http://twitter.com/)|
-|25-Sep-2021	|[Reporting and auditing for Azure DevOps](https://youtu.be/)	|[Richard Phillips](http://twitter.com/) and [Chris Ayers](http://twitter.com)|
-|26-Sep-2021	|[AIoT – Edge Video Analytics and Azure](https://youttu.be)	|[John Lunn](http://twitter.com/)|
+|25-Sep-2021	|[Reporting and auditing for Azure DevOps](https://youtu.be/)	|[Richard Phillips](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
+|26-Sep-2021	|[AIoT – Edge Video Analytics and Azure](https://youttu.be)	|[John Lunn](http://twitter.com/jonnychipz)|
 |27-Sep-2021	|[Introduction to durable functions](https://youtu.be/)	|[Sanyukta Agrawal](http://twitter.com/)|
 |28-Sep-2021	|[IoT Central for any extensible IoT project](https://youtu.be/)	|[Riccardo Zamana](http://twitter.com)|
-|29-Sep-2020	|[Security in the Cloud - 10 unknown facts you have to be very careful about while using Azure!](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/)|
-|30-Sep-2021	|[How to get the most of Azure Security Center?](https://youtu.be/)	|[Abdelmajid ANEDDAME](http://twitter.com/)|
+|29-Sep-2021 |[Building connected environments with Azure Digital Twins](https://youtu.be/) |[Brian Gorman](http://twitter.com/blgorman)|
+|29-Sep-2020	|[Security in the Cloud - 10 unknown facts you have to be very careful about while using Azure!](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
+|30-Sep-2021	|[How to get the most of Azure Security Center?](https://youtu.be/)	|[Abdelmajid Aneddame](http://twitter.com/AbdelmajidAned1)|
 |1-Oct-2021	|[Azure Back-to-School Wrap-up video](https://youtu.be/Igq7YIot9j8) and [Blog post](https://captainhyperscaler.com/2020/10/01/azurebacktoschool-2020-recap/)	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
 |  |  |  |
 
