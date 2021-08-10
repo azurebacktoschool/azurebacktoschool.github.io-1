@@ -1,6 +1,6 @@
 # Welcome to Azure Back to School
 
-![Azure Back to School logo](images/azurebacktoschool.png =250x "Azure Back to School")
+![Azure Back to School logo](images/azurebacktoschool.png =250x)
 
 ## **AZURE BACK TO SCHOOL 2021**
 Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  
