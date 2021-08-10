@@ -1,6 +1,6 @@
 # Welcome to Azure Back to School
 
-<img src="images/azurebacktoschool.png" width="200">
+<img src="images/azurebacktoschool.png" width="400">
 
 
 ## **AZURE BACK TO SCHOOL 2021**
