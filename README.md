@@ -21,8 +21,8 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |3-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
 |3-Sep-2021	|[The well-Architected solution in Azure and pillars of Azure Enterprise Architecture](https://youtu.be/)	|[Usama Wahab Khan](http://twitter.com/usamawahabkhan)|
 |4-Sep-2021	|[Azure Private Link & Azure Private Endpoint, what's so Private about it?](https://youtu.be/)|	[Micha Wets](http://twitter.com/MichaWets) and [Wim Matthyssen](http://twitter.com/wmatthyssen)|
-|5-Sep-2021	|[Send Custom Updates from Dynamics CRM to  Power Automate Flows for Integration](https://youtu.be/)|	[Abdul Kazi](http://twitter.com/abdulkazi) and [Chris Gill](http://twitter.com/cgill)|
-|5-Sep-2021	|[Azure Cost Management](https://youtu.be/)|	[Venkata Subbarao Polisetty](http://twitter.com/Venkata48681009)|
+|5-Sep-2021	|[Azure Cost Management](https://youtu.be/)|	[Abdul Kazi](http://twitter.com/abdulkazi) and [Chris Gill](http://twitter.com/cgill)|
+|5-Sep-2021	|[Send Custom Updates from Dynamics CRM to  Power Automate Flows for Integration](https://youtu.be/)|	[Venkata Subbarao Polisetty](http://twitter.com/Venkata48681009)|
 |6-Sep-2021	|[From Zero to GitOps with AKS](https://youtu.be/)|	[Thomas Thornton](http://twitter.com/tamstar1234) and [Karl Cooke](http://twitter.com/Karl_ITNerd)|
 |6-Sep-2021	|[Automating your Azure infrastructure with Pulumi](https://youtu.be/)|	[Ahmed Tidjani Belmansour](http://twitter.com/Tidjani_B)|
 |7-Sep-2021	|[Jurassic Governance - 10 tips to save your resources from extinction](https://youtu.be/)|	[Yannick Dils](http://twitter.com/ydils1) and [Thomas Van Laere](http://twitter.com/thomas_vanlaere) |
