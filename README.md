@@ -1,15 +1,12 @@
 # Welcome to Azure Back to School
 
-## **AZURE BACK TO SCHOOL 2021 ANNOUNCEMENT**
-Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  The call for speakers is open at this link: [Azure Back to School Call for Speakers](https://sessionize.com/azure-back-to-school-2021).  We request that the submission is for a Video presentation with one experienced presenter and one new or less experienced presenter that you would like to assist in getting involved in the #CloudFamily community.
-
-Feel free to reach out to me at @DwayneNcloud directly with any questions.
-
-Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.tech) and the hashtag #AzureBacktoSchool. We would like videos to be submitted a week prior to upload and schedule them on the [Captain Hyperscaler YouTube channel](https://www.youtube.com/c/captainhyperscaler) in the Azure Back to School 2021 playlist.  If you would like to have an accompanying blog post, you can do that as well, but the primary content should be a video recording.  Length is not important, but try to keep it under an hour.
-
-See Azure Advent Calendar [Azure Festive Calendar](https://festivetechcalendar.com/)  and [Azure Spring Clean](https://www.azurespringclean.com/) sites for some great content to help you with ideas and education. 
-
 ![Azure Back to School logo](images/azurebacktoschool2021.jpeg "Azure Back to School")
+
+## **AZURE BACK TO SCHOOL 2021**
+Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  
+
+The schedule for this year's event is below.  Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.tech) and the hashtag #AzureBacktoSchool. 
+
 
 ## **2021 Schedule and Content**
 
@@ -55,6 +52,14 @@ See Azure Advent Calendar [Azure Festive Calendar](https://festivetechcalendar.c
 |1-Oct-2021	|[Azure Back-to-School Wrap-up video](https://youtu.be/Igq7YIot9j8) and [Blog post](https://captainhyperscaler.com/2020/10/01/azurebacktoschool-2020-recap/)	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
 |  |  |  |
 
+## **AZURE BACK TO SCHOOL 2021 ANNOUNCEMENT**
+Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  The call for speakers is open at this link: [Azure Back to School Call for Speakers](https://sessionize.com/azure-back-to-school-2021).  We request that the submission is for a Video presentation with one experienced presenter and one new or less experienced presenter that you would like to assist in getting involved in the #CloudFamily community.
+
+Feel free to reach out to me at @DwayneNcloud directly with any questions.
+
+Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.tech) and the hashtag #AzureBacktoSchool. We would like videos to be submitted a week prior to upload and schedule them on the [Captain Hyperscaler YouTube channel](https://www.youtube.com/c/captainhyperscaler) in the Azure Back to School 2021 playlist.  If you would like to have an accompanying blog post, you can do that as well, but the primary content should be a video recording.  Length is not important, but try to keep it under an hour.
+
+See Azure Advent Calendar [Azure Festive Calendar](https://festivetechcalendar.com/)  and [Azure Spring Clean](https://www.azurespringclean.com/) sites for some great content to help you with ideas and education. 
 
 ## **2020 Content**
 
