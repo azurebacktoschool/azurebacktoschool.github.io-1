@@ -24,7 +24,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |5-Sep-2021	|[Azure Cost Management](https://youtu.be/)|	[Abdul Kazi](http://twitter.com/abdulkazi) and [Chris Gill](http://twitter.com/cgill)|
 |5-Sep-2021	|[Send Custom Updates from Dynamics CRM to  Power Automate Flows for Integration](https://youtu.be/)|	[Venkata Subbarao Polisetty](http://twitter.com/Venkata48681009)|
 |6-Sep-2021	|[From Zero to GitOps with AKS](https://youtu.be/)|	[Thomas Thornton](http://twitter.com/tamstar1234) and [Karl Cooke](http://twitter.com/Karl_ITNerd)|
-|6-Sep-2021	|[Automating your Azure infrastructure with Pulumi](https://youtu.be/)|	[Ahmed Tidjani Belmansour](http://twitter.com/Tidjani_B)|
+|6-Sep-2021	|[Automating your Azure infrastructure with Pulumi](https://youtu.be/)|	[Tidjani Belmansour](http://twitter.com/Tidjani_B)|
 |7-Sep-2021	|[Jurassic Governance - 10 tips to save your resources from extinction](https://youtu.be/)|	[Yannick Dils](http://twitter.com/ydils1) and [Thomas Van Laere](http://twitter.com/thomas_vanlaere) |
 |8-Sep-2021	|[Azure is 100% High-Available... or is it?](https://youtu.be/)	|[Peter De Tender](http://twitter.com/pdtit)|
 |8-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
