@@ -16,7 +16,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |Date	|Topic	|Contributor|
 |1-Sep-2021	|[Welcome to Azure Back-to-School 2021](https://youtu.be/)|	[Dwayne Natwick](http://twitter.com/DwayneNcloud)|
 |1-Sep-2021	|[Azure VMware Solution Overview](https://youtu.be/)|	[Shannon Kuehn](http://twitter.com/shankuehn)|
-|2-Sep-2021	|[Microsoft Teams devices integration with Endpoint Manager](https://youtu.be)|	[Shabaz Darr](http://twitter.com/ShabazDarr)|
+|2-Sep-2021	|[Microsoft Teams devices integration with Endpoint Manager](https://youtu.be)|	[Shabaz Darr](http://twitter.com/ShabazDarr) and [Sam O'Donnell](http://twitter.com/Samodonnell27)|
 |2-Sep-2021	|[Azure API Management](https://youtu.be)|	[Jabir N P](http://twitter.com/Jabirnp)|
 |3-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
 |3-Sep-2021	|[The well-Architected solution in Azure and pillars of Azure Enterprise Architecture](https://youtu.be/)	|[Usama Wahab Khan](http://twitter.com/usamawahabkhan)|
@@ -44,6 +44,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |21-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
 |22-Sep-2021	|[Managing Identity and Access in Azure](https://youtu.be)	|[Darren Robinson](http://twitter.com/stalbansdaz)|
 |23-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be)	|[Maxim Salnikov](http://twitter.com/webmaxru)|
+|23-Sep-2021	|[Deploying Azure Policies as Code](https://youtu.be/)	|[Vaibhav Gujral](http://twitter.com/vaivhavgujral_)|
 |24-Sep-2021	|[Build everything on Serverless!](https://youtu.be)	|[Divakar Kumar](http://twitter.com/)|
 |25-Sep-2021	|[Reporting and auditing for Azure DevOps](https://youtu.be/)	|[Richard Phillips](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
 |26-Sep-2021	|[AIoT – Edge Video Analytics and Azure](https://youttu.be)	|[John Lunn](http://twitter.com/jonnychipz)|
