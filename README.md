@@ -46,7 +46,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |23-Sep-2021	|[Deploying Azure Policies as Code](https://youtu.be/)	|[Vaibhav Gujral](http://twitter.com/vaivhavgujral_)|
 |24-Sep-2021	|[Build everything on Serverless!](https://youtu.be)	|[Divakar Kumar](http://twitter.com/)|
 |25-Sep-2021	|[Reporting and auditing for Azure DevOps](https://youtu.be/)	|[Richard Phillips](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
-|26-Sep-2021	|[AIoT – Edge Video Analytics and Azure](https://youttu.be)	|[John Lunn](http://twitter.com/jonnychipz)|
+|26-Sep-2021	|[AIoT – Edge Video Analytics and Azure](https://youttu.be)	|[John Lunn](http://twitter.com/jonnychipz) and [Chris Wright](https://twitter.com/ChrisWAzure)|
 |27-Sep-2021	|[Introduction to durable functions](https://youtu.be/)	|[Sanyukta Agrawal](http://twitter.com/)|
 |28-Sep-2021	|[IoT Central for any extensible IoT project](https://youtu.be/)	|[Riccardo Zamana](http://twitter.com)|
 |29-Sep-2021 |[Building connected environments with Azure Digital Twins](https://youtu.be/) |[Brian Gorman](http://twitter.com/blgorman)|
