@@ -14,18 +14,18 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |  |  |  |
 |----------|----------|:-------------:|
 |Date	|Topic	|Contributor|
-|1-Sep-2021	|[Welcome to Azure Back-to-School 2021](https://youtu.be/)|	[Dwayne Natwick](http://twitter.com/DwayneNcloud)|
-|1-Sep-2021	|[Azure VMware Solution Overview](https://youtu.be/)|	[Shannon Kuehn](http://twitter.com/shankuehn)|
+|1-Sep-2021	|[Welcome to Azure Back-to-School 2021](https://youtu.be/F3Xf1fy_1ZU)|	[Dwayne Natwick](http://twitter.com/DwayneNcloud)|
+|1-Sep-2021	|[Azure VMware Solution Overview](https://youtu.be/Wc715iFgOgU)|	[Shannon Kuehn](http://twitter.com/shankuehn)|
 |2-Sep-2021	|[Microsoft Teams devices integration with Endpoint Manager](https://youtu.be)|	[Shabaz Darr](http://twitter.com/ShabazDarr) and [Sam O'Donnell](http://twitter.com/Samodonnell27)|
-|3-Sep-2021	|[AIoT – Edge Video Analytics and Azure](https://youttu.be)	|[John Lunn](http://twitter.com/jonnychipz) and [Chris Wright](https://twitter.com/ChrisWAzure)|
-|4-Sep-2021	|[Azure Cost Management](https://youtu.be/)|	[Abdul Kazi](http://twitter.com/abdulkazi) and [Chris Gill](http://twitter.com/cgill)|
-|5-Sep-2021	|[Send Custom Updates from Dynamics CRM to  Power Automate Flows for Integration](https://youtu.be/)|	[Venkata Subbarao Polisetty](http://twitter.com/Venkata48681009)|
-|6-Sep-2021	|[Automating your Azure infrastructure with Pulumi](https://youtu.be/)|	[Tidjani Belmansour](http://twitter.com/Tidjani_B)|
-|7-Sep-2021	|[Jurassic Governance - 10 tips to save your resources from extinction](https://youtu.be/)|	[Yannick Dils](http://twitter.com/ydils1) and [Thomas Van Laere](http://twitter.com/thomas_vanlaere) |
+|3-Sep-2021	|[AIoT – Edge Video Analytics and Azure](https://youtu.be/SIbBlC_V0Ac)	|[John Lunn](http://twitter.com/jonnychipz) and [Chris Wright](https://twitter.com/ChrisWAzure)|
+|4-Sep-2021	|[Azure Cost Management](https://youtu.be/C03728QLn9Q)|	[Abdul Kazi](http://twitter.com/abdulkazi) and [Chris Gill](http://twitter.com/cgill)|
+|5-Sep-2021	|[Send Custom Updates from Dynamics CRM to  Power Automate Flows for Integration](https://youtu.be/AfIWkO1oHZg)|	[Venkata Subbarao Polisetty](http://twitter.com/Venkata48681009)|
+|6-Sep-2021	|[Automating your Azure infrastructure with Pulumi](https://youtu.be/eH8-Z_j6lvQ)|	[Tidjani Belmansour](http://twitter.com/Tidjani_B)|
+|7-Sep-2021	|[Jurassic Governance - 10 tips to save your resources from extinction](https://youtu.be/pCB7l1EfYlI)|	[Yannick Dils](http://twitter.com/ydils1) and [Thomas Van Laere](http://twitter.com/thomas_vanlaere) |
+|8-Sep-2021	|[Azure Cognitive Service: Bring AI to your applications in 3 steps!](https://youtu.be/XB-KxRiNQ1c)	|[Luis Beltran](http://twitter.com/darkicebeam) and [Carla Vanesa Mamani Chavez](http://twitter.com/)|
 |8-Sep-2021	|[Azure is 100% High-Available... or is it?](https://youtu.be/)	|[Peter De Tender](http://twitter.com/pdtit)|
-|8-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
+|9-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
 |9-Sep-2021	|[Azure API Management](https://youtu.be)|	[Jabir N P](http://twitter.com/Jabirnp)|
-|9-Sep-2021	|[Azure Cognitive Service: Bring AI to your applications in 3 steps!](https://youttu.be)	|[Luis Beltran](http://twitter.com/darkicebeam) and [Carla Vanesa Mamani Chavez](http://twitter.com/)|
 |10-Sep-2021	|[Managing your Azure environment security guardrails with Azure Bicep](https://youtu.be/)	|[Elkhan Yusubov](http://twitter.com/ElYusubov)|
 |11-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
 |11-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
@@ -48,6 +48,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |25-Sep-2021	|[Reporting and auditing for Azure DevOps](https://youtu.be/)	|[Richard Phillips](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
 |26-Sep-2021	|[The well-Architected solution in Azure and pillars of Azure Enterprise Architecture](https://youtu.be/)	|[Usama Wahab Khan](http://twitter.com/usamawahabkhan)|
 |27-Sep-2021	|[Introduction to durable functions](https://youtu.be/)	|[Sanyukta Agrawal](http://twitter.com/)|
+|27-Sep-2021	|[What the world would be like if Azure Arc didn't exist](https://youtu.be/)	|[Karel De Winter](http://twitter.com/kareldewinter)|
 |28-Sep-2021	|[IoT Central for any extensible IoT project](https://youtu.be/)	|[Riccardo Zamana](http://twitter.com)|
 |29-Sep-2021 |[Building connected environments with Azure Digital Twins](https://youtu.be/) |[Brian Gorman](http://twitter.com/blgorman)|
 |29-Sep-2020	|[Security in the Cloud - 10 unknown facts you have to be very careful about while using Azure!](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
