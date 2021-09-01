@@ -23,8 +23,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |6-Sep-2021	|[Automating your Azure infrastructure with Pulumi](https://youtu.be/eH8-Z_j6lvQ)|	[Tidjani Belmansour](http://twitter.com/Tidjani_B)|
 |7-Sep-2021	|[Jurassic Governance - 10 tips to save your resources from extinction](https://youtu.be/pCB7l1EfYlI)|	[Yannick Dils](http://twitter.com/ydils1) and [Thomas Van Laere](http://twitter.com/thomas_vanlaere) |
 |8-Sep-2021	|[Azure Cognitive Service: Bring AI to your applications in 3 steps!](https://youtu.be/XB-KxRiNQ1c)	|[Luis Beltran](http://twitter.com/darkicebeam) and [Carla Vanesa Mamani Chavez](http://twitter.com/)|
-|8-Sep-2021	|[Azure is 100% High-Available... or is it?](https://youtu.be/)	|[Peter De Tender](http://twitter.com/pdtit)|
-|9-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
+|9-Sep-2021	|[Azure is 100% High-Available... or is it?](https://youtu.be/)	|[Peter De Tender](http://twitter.com/pdtit)|
 |9-Sep-2021	|[Azure API Management](https://youtu.be)|	[Jabir N P](http://twitter.com/Jabirnp)|
 |10-Sep-2021	|[Managing your Azure environment security guardrails with Azure Bicep](https://youtu.be/)	|[Elkhan Yusubov](http://twitter.com/ElYusubov)|
 |11-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
@@ -34,6 +33,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |13-Sep-2021 |[API First Design and Azure API Management](https://youtu.be)|[Joel Hebert](http://twitter.com/JoelHebert)|
 |14-Sep-2021	|[IaC - Accelerate, stabilize, and reduce costs in the cloud](https://youtu.be/)	|[Bailey Fitchett](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
 |15-Sep-2021	|[DAPR in action: Pros and cons, lessons learned](https://youtu.be)	|[Stas Lebedenko](http://twitter.com/angry_stas) and [Illya Solovyov](http://twitter.com/)|
+|15-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
 |16-Sep-2021	|[From Zero to GitOps with AKS](https://youtu.be/)|	[Thomas Thornton](http://twitter.com/tamstar1234) and [Karl Cooke](http://twitter.com/Karl_ITNerd)|
 |16-Sep-2021	|[FinOps on Microsoft Azure](https://youtu.be)	|[Martyn Coupland](http://twitter.com/mrcoups)|
 |17-Sep-2021	|[Azure Private Link & Azure Private Endpoint, what's so Private about it?](https://youtu.be/)|	[Micha Wets](http://twitter.com/MichaWets) and [Wim Matthyssen](http://twitter.com/wmatthyssen)|
