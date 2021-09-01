@@ -16,7 +16,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |Date	|Topic	|Contributor|
 |1-Sep-2021	|[Welcome to Azure Back-to-School 2021](https://youtu.be/F3Xf1fy_1ZU)|	[Dwayne Natwick](http://twitter.com/DwayneNcloud)|
 |1-Sep-2021	|[Azure VMware Solution Overview](https://youtu.be/Wc715iFgOgU)|	[Shannon Kuehn](http://twitter.com/shankuehn)|
-|2-Sep-2021	|[Microsoft Teams devices integration with Endpoint Manager](https://youtu.be)|	[Shabaz Darr](http://twitter.com/ShabazDarr) and [Sam O'Donnell](http://twitter.com/Samodonnell27)|
+|2-Sep-2021	|[Microsoft Teams devices integration with Endpoint Manager](https://youtu.be/sJJUBMiw4Yg)|	[Shabaz Darr](http://twitter.com/ShabazDarr) and [Sam O'Donnell](http://twitter.com/Samodonnell27)|
 |3-Sep-2021	|[AIoT – Edge Video Analytics and Azure](https://youtu.be/SIbBlC_V0Ac)	|[John Lunn](http://twitter.com/jonnychipz) and [Chris Wright](https://twitter.com/ChrisWAzure)|
 |4-Sep-2021	|[Azure Cost Management](https://youtu.be/C03728QLn9Q)|	[Abdul Kazi](http://twitter.com/abdulkazi) and [Chris Gill](http://twitter.com/cgill)|
 |5-Sep-2021	|[Send Custom Updates from Dynamics CRM to  Power Automate Flows for Integration](https://youtu.be/AfIWkO1oHZg)|	[Venkata Subbarao Polisetty](http://twitter.com/Venkata48681009)|
