@@ -25,23 +25,23 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |8-Sep-2021	|[Azure Cognitive Service: Bring AI to your applications in 3 steps!](https://youtu.be/XB-KxRiNQ1c)	|[Luis Beltran](http://twitter.com/darkicebeam) and [Carla Vanesa Mamani Chavez](http://twitter.com/)|
 |9-Sep-2021	|[Azure is 100% High-Available... or is it?](https://youtu.be/)	|[Peter De Tender](http://twitter.com/pdtit)|
 |9-Sep-2021	|[Azure API Management](https://youtu.be)|	[Jabir N P](http://twitter.com/Jabirnp)|
-|10-Sep-2021	|[Managing your Azure environment security guardrails with Azure Bicep](https://youtu.be/)	|[Elkhan Yusubov](http://twitter.com/ElYusubov)|
+|10-Sep-2021	|[Managing your Azure environment security guardrails with Azure Bicep](https://youtu.be/vI1eO3sxygk)	|[Elkhan Yusubov](http://twitter.com/ElYusubov)|
 |11-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
 |11-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
 |12-Sep-2021	|[Analyzing Azure DevOps auditing streams in your SIEM of choice](https://youtu.be/)|[Peter De Tender](http://twitter.com/pdtit) and [James Cook](http://twitter.com/OfficialCookJ)|
 |13-Sep-2021	|[Terraform versus Bicep as Azure deployment options](https://youtu.be)	|[John Folberth](http://twitter.com/j_folberth)|
 |13-Sep-2021 |[API First Design and Azure API Management](https://youtu.be)|[Joel Hebert](http://twitter.com/JoelHebert)|
 |14-Sep-2021	|[IaC - Accelerate, stabilize, and reduce costs in the cloud](https://youtu.be/)	|[Bailey Fitchett](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
-|15-Sep-2021	|[DAPR in action: Pros and cons, lessons learned](https://youtu.be)	|[Stas Lebedenko](http://twitter.com/angry_stas) and [Illya Solovyov](http://twitter.com/)|
+|15-Sep-2021	|[DAPR in action: Pros and cons, lessons learned](https://youtu.be/yFfyie_T6vk)	|[Stas Lebedenko](http://twitter.com/angry_stas) and [Illya Solovyov](http://twitter.com/)|
 |15-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
 |16-Sep-2021	|[From Zero to GitOps with AKS](https://youtu.be/)|	[Thomas Thornton](http://twitter.com/tamstar1234) and [Karl Cooke](http://twitter.com/Karl_ITNerd)|
-|16-Sep-2021	|[FinOps on Microsoft Azure](https://youtu.be)	|[Martyn Coupland](http://twitter.com/mrcoups)|
+|16-Sep-2021	|[FinOps on Microsoft Azure](https://youtu.be/2oFqfqzMUps)	|[Martyn Coupland](http://twitter.com/mrcoups)|
 |17-Sep-2021	|[Azure Private Link & Azure Private Endpoint, what's so Private about it?](https://youtu.be/)|	[Micha Wets](http://twitter.com/MichaWets) and [Wim Matthyssen](http://twitter.com/wmatthyssen)|
 |17-Sep-2021	|[Bicep builders: Azure Sentinel and Policy as Code](https://youtu.be/)	|[Jesse Loudon](http://twitter.com/coder_au) and [Casey Mullineaux](http://twitter.com/Nurfballs)|
 |18-Sep-2021	|[Managing AVD the modern way](https://youtu.be/)	|[Stefan Dingemanse](http://twitter.com/SDingemanse) and [Sander Rozemuller](http://twitter.com/SandeRozemuller)|
 |19-Sep-2021	|[Monitor Office 365 Environment with Azure Sentinel](https://youtu.be/)	|[Nanddeep Nachan](http://www.twitter.com/NanddeepNachan) and [Smita Nachan](http://www.twitter.com/SmitaNachan) |
 |20-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
-|21-Sep-2021	|[Managing Identity and Access in Azure](https://youtu.be)	|[Darren Robinson](http://twitter.com/stalbansdaz)|
+|21-Sep-2021	|[An introduction to Azure Managed Identities](https://youtu.be/Qz_yAnsxGks)	|[Darren Robinson](http://twitter.com/stalbansdaz)|
 |22-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be)	|[Maxim Salnikov](http://twitter.com/webmaxru)|
 |23-Sep-2021	|[Deploying Azure Policies as Code](https://youtu.be/)	|[Vaibhav Gujral](http://twitter.com/vaivhavgujral_)|
 |24-Sep-2021	|[Build everything on Serverless!](https://youtu.be)	|[Divakar Kumar](http://twitter.com/)|
