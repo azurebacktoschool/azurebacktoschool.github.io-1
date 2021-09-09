@@ -26,7 +26,6 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |9-Sep-2021	|[Azure is 100% High-Available... or is it?](https://youtu.be/StvxUrZyVGE)	|[Peter De Tender](http://twitter.com/pdtit)|
 |10-Sep-2021	|[Managing your Azure environment security guardrails with Azure Bicep](https://youtu.be/N-ItsJDPLA4)	|[Elkhan Yusubov](http://twitter.com/ElYusubov)|
 |11-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
-|11-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
 |12-Sep-2021	|[Analyzing Azure DevOps auditing streams in your SIEM of choice](https://youtu.be/KHL19h3Pufo)|[Peter De Tender](http://twitter.com/pdtit) and [James Cook](http://twitter.com/OfficialCookJ)|
 |13-Sep-2021	|[Infrastructure as Code for Azure: Bicep and Terraform](https://youtu.be/FN4Qah5PbXg)	|[John Folberth](http://twitter.com/j_folberth)|
 |14-Sep-2021 |[API First Design and Azure API Management](https://youtu.be)|[Joel Hebert](http://twitter.com/JoelHebert)|
@@ -46,8 +45,9 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |24-Sep-2021	|[Build everything on Serverless!](https://youtu.be)	|[Divakar Kumar](http://twitter.com/)|
 |25-Sep-2021	|[Reporting and auditing for Azure DevOps](https://youtu.be/)	|[Richard Phillips](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
 |26-Sep-2021	|[The well-Architected solution in Azure and pillars of Azure Enterprise Architecture](https://youtu.be/)	|[Usama Wahab Khan](http://twitter.com/usamawahabkhan)|
-|27-Sep-2021	|[Introduction to durable functions](https://youtu.be/)	|[Sanyukta Agrawal](http://twitter.com/)|
 |27-Sep-2021	|[What the world would be like if Azure Arc didn't exist](https://youtu.be/)	|[Karel De Winter](http://twitter.com/kareldewinter)|
+|27-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
+|27-Sep-2021	|[Introduction to durable functions](https://youtu.be/)	|[Sanyukta Agrawal](http://twitter.com/)|
 |28-Sep-2021	|[IoT Central for any extensible IoT project](https://youtu.be/)	|[Riccardo Zamana](http://twitter.com)|
 |28-Sep-2021	|[Azure API Management](https://youtu.be)|	[Jabir N P](http://twitter.com/Jabirnp)|
 |29-Sep-2021 |[Building connected environments with Azure Digital Twins](https://youtu.be/) |[Brian Gorman](http://twitter.com/blgorman)|
