@@ -28,7 +28,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |11-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
 |12-Sep-2021	|[Analyzing Azure DevOps auditing streams in your SIEM of choice](https://youtu.be/KHL19h3Pufo)|[Peter De Tender](http://twitter.com/pdtit) and [James Cook](http://twitter.com/OfficialCookJ)|
 |13-Sep-2021	|[Infrastructure as Code for Azure: Bicep and Terraform](https://youtu.be/FN4Qah5PbXg)	|[John Folberth](http://twitter.com/j_folberth)|
-|14-Sep-2021 |[API First Design and Azure API Management](https://youtu.be)|[Joel Hebert](http://twitter.com/JoelHebert)|
+|14-Sep-2021 |[API First Design and Azure API Management](https://youtu.be/3Yh1BbsycD8)|[Joel Hebert](http://twitter.com/JoelHebert)|
 |14-Sep-2021	|[IaC - Accelerate, stabilize, and reduce costs in the cloud](https://youtu.be/)	|[Bailey Fitchett](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
 |15-Sep-2021	|[DAPR in action: Pros and cons, lessons learned](https://youtu.be/yFfyie_T6vk)	|[Stas Lebedenko](http://twitter.com/angry_stas) and [Illya Solovyov](http://twitter.com/)|
 |15-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
