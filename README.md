@@ -25,7 +25,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |8-Sep-2021	|[Azure Cognitive Service: Bring AI to your applications in 3 steps!](https://youtu.be/XB-KxRiNQ1c)	|[Luis Beltran](http://twitter.com/darkicebeam) and [Carla Vanesa Mamani Chavez](http://twitter.com/)|
 |9-Sep-2021	|[Azure is 100% High-Available... or is it?](https://youtu.be/StvxUrZyVGE)	|[Peter De Tender](http://twitter.com/pdtit)|
 |10-Sep-2021	|[Managing your Azure environment security guardrails with Azure Bicep](https://youtu.be/N-ItsJDPLA4)	|[Elkhan Yusubov](http://twitter.com/ElYusubov)|
-|11-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
+|11-Sep-2021	|[Connect and Manage Microsoft Resources with Azure Security Center and Azure Sentinel](https://youtu.be/ju9YK9At53s)	|[Shannon Kuehn](http://twitter.com/shankuehn) and [Dwayne Natwick](http://twitter.com/DwayneNcloud)|
 |12-Sep-2021	|[Analyzing Azure DevOps auditing streams in your SIEM of choice](https://youtu.be/KHL19h3Pufo)|[Peter De Tender](http://twitter.com/pdtit) and [James Cook](http://twitter.com/OfficialCookJ)|
 |13-Sep-2021	|[Infrastructure as Code for Azure: Bicep and Terraform](https://youtu.be/FN4Qah5PbXg)	|[John Folberth](http://twitter.com/j_folberth)|
 |14-Sep-2021 |[API First Design and Azure API Management](https://youtu.be/3Yh1BbsycD8)|[Joel Hebert](http://twitter.com/JoelHebert)|
@@ -52,6 +52,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |28-Sep-2021	|[Azure API Management](https://youtu.be)|	[Jabir N P](http://twitter.com/Jabirnp)|
 |29-Sep-2021 |[Building connected environments with Azure Digital Twins](https://youtu.be/) |[Brian Gorman](http://twitter.com/blgorman)|
 |29-Sep-2020	|[Security in the Cloud - 10 unknown facts you have to be very careful about while using Azure!](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
+|30-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
 |30-Sep-2021	|[How to get the most of Azure Security Center?](https://youtu.be/)	|[Abdelmajid Aneddame](http://twitter.com/AbdelmajidAned1)|
 |1-Oct-2021	|[Azure Back-to-School Wrap-up video](https://youtu.be/Igq7YIot9j8) and [Blog post](https://captainhyperscaler.com/2020/10/01/azurebacktoschool-2020-recap/)	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
 |  |  |  |
