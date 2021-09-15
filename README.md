@@ -31,7 +31,6 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |14-Sep-2021 |[API First Design and Azure API Management](https://youtu.be/3Yh1BbsycD8)|[Joel Hebert](http://twitter.com/JoelHebert)|
 |15-Sep-2021	|[DAPR in action: Pros and cons, lessons learned](https://youtu.be/yFfyie_T6vk)	|[Stas Lebedenko](http://twitter.com/angry_stas) and [Illya Solovyov](https://twitter.com/IlyaSolovyov909)|
 |16-Sep-2021	|[FinOps on Microsoft Azure](https://youtu.be/2oFqfqzMUps)	|[Martyn Coupland](http://twitter.com/mrcoups)|
-
 |17-Sep-2021	|[Bicep builders: Azure Sentinel and Policy as Code](https://youtu.be/B03V3Tazcec)	|[Jesse Loudon](http://twitter.com/coder_au) and [Casey Mullineaux](http://twitter.com/Nurfballs)|
 |18-Sep-2021	|[Managing AVD the modern way](https://youtu.be/6_LdkKsoQ98)	|[Stefan Dingemanse](http://twitter.com/SDingemanse) and [Sander Rozemuller](http://twitter.com/SandeRozemuller)|
 |19-Sep-2021	|[Monitor Office 365 Environment with Azure Sentinel](https://youtu.be/SG7uey7Jc9s)	|[Nanddeep Nachan](http://www.twitter.com/NanddeepNachan) and [Smita Nachan](http://www.twitter.com/SmitaNachan) |
