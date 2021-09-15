@@ -31,18 +31,19 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |14-Sep-2021 |[API First Design and Azure API Management](https://youtu.be/3Yh1BbsycD8)|[Joel Hebert](http://twitter.com/JoelHebert)|
 |15-Sep-2021	|[DAPR in action: Pros and cons, lessons learned](https://youtu.be/yFfyie_T6vk)	|[Stas Lebedenko](http://twitter.com/angry_stas) and [Illya Solovyov](https://twitter.com/IlyaSolovyov909)|
 |16-Sep-2021	|[FinOps on Microsoft Azure](https://youtu.be/2oFqfqzMUps)	|[Martyn Coupland](http://twitter.com/mrcoups)|
-|17-Sep-2021	|[Azure Private Link & Azure Private Endpoint, what's so Private about it?](https://youtu.be/)|	[Micha Wets](http://twitter.com/MichaWets) and [Wim Matthyssen](http://twitter.com/wmatthyssen)|
+
 |17-Sep-2021	|[Bicep builders: Azure Sentinel and Policy as Code](https://youtu.be/B03V3Tazcec)	|[Jesse Loudon](http://twitter.com/coder_au) and [Casey Mullineaux](http://twitter.com/Nurfballs)|
 |18-Sep-2021	|[Managing AVD the modern way](https://youtu.be/6_LdkKsoQ98)	|[Stefan Dingemanse](http://twitter.com/SDingemanse) and [Sander Rozemuller](http://twitter.com/SandeRozemuller)|
 |19-Sep-2021	|[Monitor Office 365 Environment with Azure Sentinel](https://youtu.be/SG7uey7Jc9s)	|[Nanddeep Nachan](http://www.twitter.com/NanddeepNachan) and [Smita Nachan](http://www.twitter.com/SmitaNachan) |
 |20-Sep-2021	|[From Zero to GitOps with AKS](https://youtu.be/XEeQ6cYubZk)|[Thomas Thornton](http://twitter.com/tamstar1234) and [Karl Cooke](http://twitter.com/Karl_ITNerd)|
-|20-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
 |21-Sep-2021	|[An introduction to Azure Managed Identities](https://youtu.be/Qz_yAnsxGks)	|[Darren Robinson](http://twitter.com/stalbansdaz)|
 |22-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/5w7l1CNHbtU)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
-|22-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be)	|[Maxim Salnikov](http://twitter.com/webmaxru)|
 |23-Sep-2021	|[Build everything on Serverless!](https://youtu.be/vJuRWjHGRb8)	|[Divakar Kumar](http://twitter.com/)|
+|24-Sep-2021	|[Azure Private Link & Azure Private Endpoint, what's so Private about it?](https://youtu.be/)|	[Micha Wets](http://twitter.com/MichaWets) and [Wim Matthyssen](http://twitter.com/wmatthyssen)|
 |24-Sep-2021	|[Deploying Azure Policies as Code](https://youtu.be/)	|[Vaibhav Gujral](http://twitter.com/vaivhavgujral_)|
+|25-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
 |25-Sep-2021	|[Reporting and auditing for Azure DevOps](https://youtu.be/)	|[Richard Phillips](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
+|26-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be)	|[Maxim Salnikov](http://twitter.com/webmaxru)|
 |26-Sep-2021	|[The well-Architected solution in Azure and pillars of Azure Enterprise Architecture](https://youtu.be/)	|[Usama Wahab Khan](http://twitter.com/usamawahabkhan)|
 |27-Sep-2021	|[What the world would be like if Azure Arc didn't exist](https://youtu.be/)	|[Karel De Winter](http://twitter.com/kareldewinter)|
 |27-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
