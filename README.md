@@ -39,12 +39,12 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |22-Sep-2021	|[Landing Zone at scale in regulated environment](https://youtu.be/5w7l1CNHbtU)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
 |23-Sep-2021	|[Build everything on Serverless!](https://youtu.be/vJuRWjHGRb8)	|[Divakar Kumar](http://twitter.com/)|
 |24-Sep-2021	|[Azure Private Link & Azure Private Endpoint, what's so Private about it?](https://youtu.be/W4E6Xy9Ol20)|	[Micha Wets](http://twitter.com/MichaWets) and [Wim Matthyssen](http://twitter.com/wmatthyssen)|
-|24-Sep-2021	|[Deploying Azure Policies as Code](https://youtu.be/)	|[Vaibhav Gujral](http://twitter.com/vaivhavgujral_)|
 |25-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
 |25-Sep-2021	|[Reporting and auditing for Azure DevOps](https://youtu.be/)	|[Richard Phillips](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
 |26-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be)	|[Maxim Salnikov](http://twitter.com/webmaxru)|
 |26-Sep-2021	|[The well-Architected solution in Azure and pillars of Azure Enterprise Architecture](https://youtu.be/)	|[Usama Wahab Khan](http://twitter.com/usamawahabkhan)|
 |27-Sep-2021	|[What the world would be like if Azure Arc didn't exist](https://youtu.be/)	|[Karel De Winter](http://twitter.com/kareldewinter)|
+|28-Sep-2021	|[Deploying Azure Policies as Code](https://youtu.be/)	|[Vaibhav Gujral](http://twitter.com/vaivhavgujral_)|
 |27-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
 |27-Sep-2021	|[Introduction to durable functions](https://youtu.be/)	|[Sanyukta Agrawal](http://twitter.com/)|
 |28-Sep-2021	|[IoT Central for any extensible IoT project](https://youtu.be/)	|[Riccardo Zamana](http://twitter.com)|
