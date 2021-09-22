@@ -40,7 +40,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |23-Sep-2021	|[Build everything on Serverless!](https://youtu.be/vJuRWjHGRb8)	|[Divakar Kumar](http://twitter.com/)|
 |24-Sep-2021	|[Azure Private Link & Azure Private Endpoint, what's so Private about it?](https://youtu.be/W4E6Xy9Ol20)|	[Micha Wets](http://twitter.com/MichaWets) and [Wim Matthyssen](http://twitter.com/wmatthyssen)|
 |25-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
-|26-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be)	|[Maxim Salnikov](http://twitter.com/webmaxru)|
+|26-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be/OpFMUYLqgEU)	|[Maxim Salnikov](http://twitter.com/webmaxru)|
 |27-Sep-2021	|[What the world would be like if Azure Arc didn't exist](https://youtu.be/)	|[Karel De Winter](http://twitter.com/kareldewinter)|
 |28-Sep-2021	|[Deploying Azure Policies as Code](https://youtu.be/)	|[Vaibhav Gujral](http://twitter.com/vaivhavgujral_)|
 |29-Sep-2021 |[Building connected environments with Azure Digital Twins](https://youtu.be/) |[Brian Gorman](http://twitter.com/blgorman)|
