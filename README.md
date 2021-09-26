@@ -44,7 +44,7 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |27-Sep-2021	|[What the world would be like if Azure Arc didn't exist](https://youtu.be/hjcOQiF6IPg)	|[Karel De Winter](http://twitter.com/kareldewinter)|
 |28-Sep-2021	|[Deploying Azure Policies as Code](https://youtu.be/)	|[Vaibhav Gujral](http://twitter.com/vaivhavgujral_)|
 |29-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/Ef4qeKrQ4r4)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
-|30-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
+|30-Sep-2021	|[IoT Central for any extensible IoT project](https://youtu.be/)	|[Riccardo Zamana](http://twitter.com)|
 |1-Oct-2021	|[Azure Back-to-School Wrap-up video](https://youtu.be/Igq7YIot9j8) and [Blog post](https://captainhyperscaler.com/2020/10/01/azurebacktoschool-2020-recap/)	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
 |  |  |  |
 
