@@ -43,17 +43,8 @@ The schedule for this year's event is below.  Hyperlinks to each topic’s conte
 |26-Sep-2021	|[Azure cloud for the web frontend developers](https://youtu.be/OpFMUYLqgEU)	|[Maxim Salnikov](http://twitter.com/webmaxru)|
 |27-Sep-2021	|[What the world would be like if Azure Arc didn't exist](https://youtu.be/hjcOQiF6IPg)	|[Karel De Winter](http://twitter.com/kareldewinter)|
 |28-Sep-2021	|[Deploying Azure Policies as Code](https://youtu.be/)	|[Vaibhav Gujral](http://twitter.com/vaivhavgujral_)|
-|29-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
+|29-Sep-2021	|[Zero to Hero with Azure Virtual WAN](https://youtu.be/Ef4qeKrQ4r4)	|[Derek Smith](http://twitter.com/ConsidercloudDS)|
 |30-Sep-2021	|[A practical guide to JIT and JEA with Azure AD PIM](https://youtu.be/)	|[Vukašin Terzić](http://twitter.com/MrTerzic)|
-|30-Sep-2021	|[IaC - Accelerate, stabilize, and reduce costs in the cloud](https://youtu.be/)	|[Bailey Fitchett](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
-|30-Sep-2021	|[Reporting and auditing for Azure DevOps](https://youtu.be/)	|[Richard Phillips](http://twitter.com/) and [Chris Ayers](http://twitter.com/Chris_L_Ayers)|
-|30-Sep-2021	|[How to get the most of Azure Security Center?](https://youtu.be/)	|[Abdelmajid Aneddame](http://twitter.com/AbdelmajidAned1)|
-|30-Sep-2021	|[Audit VMs with Azure Guest Configuration Policy](https://youtu.be/)	|[Taha Baleegh Ansari](http://twitter.com/TechieTaha)|
-|30-Sep-2021	|[Introduction to durable functions](https://youtu.be/)	|[Sanyukta Agrawal](http://twitter.com/)|
-|30-Sep-2021	|[IoT Central for any extensible IoT project](https://youtu.be/)	|[Riccardo Zamana](http://twitter.com)|
-|30-Sep-2021	|[Azure API Management](https://youtu.be)|	[Jabir N P](http://twitter.com/Jabirnp)|
-|30-Sep-2020	|[Security in the Cloud - 10 unknown facts you have to be very careful about while using Azure!](https://youtu.be/)|[Michał Furmankiewicz](http://twitter.com/mifurm)|
-|30-Sep-2021	|[The well-Architected solution in Azure and pillars of Azure Enterprise Architecture](https://youtu.be/)	|[Usama Wahab Khan](http://twitter.com/usamawahabkhan)|
 |1-Oct-2021	|[Azure Back-to-School Wrap-up video](https://youtu.be/Igq7YIot9j8) and [Blog post](https://captainhyperscaler.com/2020/10/01/azurebacktoschool-2020-recap/)	|[Dwayne Natwick](https://twitter.com/DwayneNcloud)|
 |  |  |  |
 
