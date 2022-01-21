@@ -6,7 +6,7 @@
 ## **AZURE BACK TO SCHOOL 2021**
 Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  
 
-The schedule for this year's event is below.  Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.tech) and the hashtag #AzureBacktoSchool. 
+The schedule for this year's event is below.  Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.com) and the hashtag #AzureBacktoSchool. 
 
 
 ## **2021 Schedule and Content**
