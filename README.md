@@ -1,6 +1,6 @@
 # Welcome to Azure Back to School
 
-<img src="images/azurebacktoschool-logo.png" width="400">
+<img src="images/AzureBacktoSchool-logo.png" width="400">
 
 ## **AZURE BACK TO SCHOOL 2022**
 It is that time again... Azure Back to School is BACK in 2022.  Call for Speakers will open on 01 April 2022 and will remain open until 01 June 2022.  We had 1-2 presentations a day in 2021 for the entire 30 days of September.  Let's see if we can double that this year.  All sessions will be accepted. Access the call for speakers page at <https://sessionize.com/azback2school2022/>.
