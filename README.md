@@ -5,14 +5,14 @@
 ## **AZURE BACK TO SCHOOL 2022**
 It is that time again... Azure Back to School is BACK in 2022.  Call for Speakers will open on 01 April 2022 and will remain open until 01 June 2022.  We had 1-2 presentations a day in 2021 for the entire 30 days of September.  Let's see if we can double that this year.  All sessions will be accepted. Access the call for speakers page at <https://sessionize.com/azback2school2022/>.
 
-Last year's sessions can be accessed below. You can use these for any guidance for choosing your session for this year.  Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page <http://azurebacktoschool.com> and the hashtag #AzureBacktoSchool. 
+Last year's sessions can be accessed below. You can use these for any guidance for choosing your session for this year.  Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page: <http://azurebacktoschool.com> and the hashtag #AzureBacktoSchool. 
 
 Thank you very much.  I look forward to another great Azure Back to School September!!!
 
 ## **AZURE BACK TO SCHOOL 2021**
 Azure Back to School is BACK in 2021.  This year, we would like to make this a true event to educate the community as well as mentor new speaker involvement.  
 
-The schedule for this year's event is below.  Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.com) and the hashtag #AzureBacktoSchool. 
+The schedule for this year's event is below.  Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page: <http://azurebacktoschool.com> and the hashtag #AzureBacktoSchool. 
 
 
 ## **2021 Schedule and Content**
